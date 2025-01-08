@@ -41,5 +41,5 @@ models:
       +materialized: table
 
 seeds:
- +database: "Francisco_Martinez_DEV_BRONZE_DB"
+ +database: "FMARTINEZP_DEV_BRONZE_DB"
  +schema: "SEEDS"

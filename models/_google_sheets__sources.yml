@@ -3,7 +3,7 @@ version: 2
 sources:
   - name: google_sheets # name of the source
     schema: google_sheets # this is the schema our raw data lives in
-    database: Francisco_Martinez_DEV_BRONZE_DB # this is the name of our database
+    database: FMARTINEZP_DEV_BRONZE_DB # this is the name of our database
 
     quoting:
       database: false
